@@ -33,8 +33,16 @@ This is a video by TomSka, published on YouTube.
 ```
 would generate a page with a the ASDF Movie 10 video on it with the text `This is a video by TomSka, published on YouTube.` underneith it. In the web address `https://www.youtube.com/watch?v=foFKXS6Nyho`, the appropriate `yt-id` would be `foFKXS6Nyho`.
 
+Use [Dillinger](https://dillinger.io/) to check how your markdown looks, and this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) for helpful tips.
 
-Use [Dillinger](https://dillinger.io/) to check how your markdown looks.
+Remember to leave a blank line between paragraphs.
+
+This is one sentence
+split over two lines.
+
+This is a sentence
+
+with a gap in between.
 
 >"Life needs things to live"
 >
