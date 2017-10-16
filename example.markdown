@@ -33,5 +33,9 @@ This is a video by TomSka, published on YouTube.
 ```
 would generate a page with a the ASDF Movie 10 video on it with the text `This is a video by TomSka, published on YouTube.` underneith it. In the web address `https://www.youtube.com/watch?v=foFKXS6Nyho`, the appropriate `yt-id` would be `foFKXS6Nyho`.
 
+
+Use [Dillinger](https://dillinger.io/) to check how your markdown looks.
+
 >"Life needs things to live"
+>
 >~Lord Percival Fredrickstein Von Musel Klossowski de Rolo III
