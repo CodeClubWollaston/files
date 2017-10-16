@@ -33,3 +33,5 @@ int main()  {
 >this format may help.
 
 [Dillinger](https://dillinger.io/) is a good site for seeing how your formatted work looks.
+
+This [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) is also very helpful.
