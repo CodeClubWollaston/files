@@ -3,11 +3,11 @@
 
  - Dashes make bullet points
 
-| Tables        | Are           | Cool  |
+| This is       | A             | Table |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Option 1      | Bananas       | £2    |
+| Option 2      | Apple         |   Too much to afford |
+| Option 3 | Humanoid Robit      |    Free |
 
 #### Python
 ```python
