@@ -32,6 +32,11 @@ int main()  {
 >If quoting a person,
 >this format may help.
 
+You can also create a checklist
+ - [x] Banana
+ - [ ] Apple
+ - [x] Humanoid Robit
+
 [Dillinger](https://dillinger.io/) is a good site for seeing how your formatted work looks.
 
 This [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) is also very helpful.
